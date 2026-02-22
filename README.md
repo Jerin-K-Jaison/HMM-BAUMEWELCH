@@ -38,16 +38,12 @@ python -m streamlit run app.py
 
 The app will show the trained Transition, Emission and Initial Probabilities.
 
-<img width="1920" height="1080" alt="Screenshot 2026-02-22 163537" src="https://github.com/user-attachments/assets/c12fb6d8-6f0b-4508-a29a-7eff893f14c7" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-02-22 163559" src="https://github.com/user-attachments/assets/e8d70ae8-23f3-4897-a3ab-51337f2683a0" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-22 172823" src="https://github.com/user-attachments/assets/b509c618-7b9e-40e8-b11a-9db6b6e061b9" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-02-22 163616" src="https://github.com/user-attachments/assets/3b47e9bb-9fb8-4622-b1cb-823cd7c27147" />
+<img width="1192" height="949" alt="Screenshot 2026-02-22 172905" src="https://github.com/user-attachments/assets/ff68f167-e7a4-4869-9f33-52312d087821" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-02-22 165519" src="https://github.com/user-attachments/assets/f0c27975-8ffe-42bd-96d0-dfad87f3c671" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-22 172928" src="https://github.com/user-attachments/assets/0586dd5b-5f82-43b8-8726-12e45362be69" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-02-22 165643" src="https://github.com/user-attachments/assets/0baae356-8f99-4d08-866d-839fe831293e" />
-
-
-
+<img width="1920" height="1080" alt="Screenshot 2026-02-22 172656" src="https://github.com/user-attachments/assets/9de657b8-96d1-43d2-b709-862a450c1b65" />
 
