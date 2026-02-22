@@ -44,7 +44,9 @@ The app will show the trained Transition, Emission and Initial Probabilities.
 
 <img width="1920" height="1080" alt="Screenshot 2026-02-22 163616" src="https://github.com/user-attachments/assets/3b47e9bb-9fb8-4622-b1cb-823cd7c27147" />
 
+<img width="1920" height="1080" alt="Screenshot 2026-02-22 165519" src="https://github.com/user-attachments/assets/f0c27975-8ffe-42bd-96d0-dfad87f3c671" />
 
+<img width="1920" height="1080" alt="Screenshot 2026-02-22 165643" src="https://github.com/user-attachments/assets/0baae356-8f99-4d08-866d-839fe831293e" />
 
 
 
