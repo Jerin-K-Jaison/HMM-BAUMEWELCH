@@ -1,8 +1,10 @@
 # Hidden Markov Model using Baum-Welch Algorithm
 
 Name: Jerin K Jaison
+
 Register Number:TCR24CS036
-Course: PATTERN RECOGNITION
+  
+  Course: PATTERN RECOGNITION
 
 ## Description
 
@@ -35,3 +37,15 @@ python -m streamlit run app.py
 `0,1,2,0,1`
 
 The app will show the trained Transition, Emission and Initial Probabilities.
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-22 163537" src="https://github.com/user-attachments/assets/c12fb6d8-6f0b-4508-a29a-7eff893f14c7" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-22 163559" src="https://github.com/user-attachments/assets/e8d70ae8-23f3-4897-a3ab-51337f2683a0" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-22 163616" src="https://github.com/user-attachments/assets/3b47e9bb-9fb8-4622-b1cb-823cd7c27147" />
+
+
+
+
+
+
